@@ -30,14 +30,8 @@
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU_LINK_AQUI](https://www.linkedin.com/in/lucas-carvalho-dev/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carvalho-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascsilva.inv@gmail.com)
 
 ### 📊 Minhas Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luckaz7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas de Luckaz7" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckaz7&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luckaz7&show_icons=true&theme=radical)
