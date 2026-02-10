@@ -34,4 +34,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascsilva.inv@gmail.com)
 
 ### 📊 Minhas Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luckaz7&show_icons=true&theme=radical)
+![Status de Luckaz7](https://github-readme-streak-stats.herokuapp.com/?user=Luckaz7&theme=dark)
